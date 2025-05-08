@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  ame: Default
+  name: Default
 
 
 steps:
